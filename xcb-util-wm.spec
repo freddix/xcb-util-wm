@@ -1,11 +1,11 @@
 Summary:	XCB util-wm module
 Name:		xcb-util-wm
-Version:	0.3.9
-Release:	3
+Version:	0.4.0
+Release:	1
 License:	MIT
 Group:		Libraries
 Source0:	http://xcb.freedesktop.org/dist/%{name}-%{version}.tar.bz2
-# Source0-md5:	c612aae7ffe2e70fe743efab9c5548e9
+# Source0-md5:	1b5182b894753de63c9fad1ce6124534
 URL:		http://xcb.freedesktop.org/XcbUtil/
 BuildRequires:	autoconf
 BuildRequires:	automake
